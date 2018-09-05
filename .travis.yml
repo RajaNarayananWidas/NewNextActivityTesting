@@ -1,7 +1,5 @@
 language: android
 android:
-before_install:
-- yes | sdkmanager "platforms;android-28"
   components:
     # Uncomment the lines below if you want to
     # use the latest revision of Android SDK Tools
